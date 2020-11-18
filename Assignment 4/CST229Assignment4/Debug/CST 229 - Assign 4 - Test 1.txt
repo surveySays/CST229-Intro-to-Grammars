@@ -1,0 +1,13 @@
+'Ends in a
+5
+1, a, a, R, 2
+1, b, b, R, 1
+2, a, a, R, 2
+2, b, b, R, 1
+2, _, _, L, H
+aba
+bbaabba
+bbabab
+aaaab
+b
+a
